@@ -1,4 +1,4 @@
-
+# cv过来的  拿来吧你
 # 官网
 
 ### [http://www.hzhcontrols.com/](http://www.hzhcontrols.com/)
@@ -23,8 +23,6 @@ GitHub：[https://github.com/kwwwvagaa/NetWinformControl](https://github.com/kww
 
 #### 如果我的代码对您有用，请打赏一点吧，谢谢，您的打赏是我的动力
 
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0905/180337_91c70c54_301547.jpeg "zanshangma.jpg")
-![输入图片说明](https://images.gitee.com/uploads/images/2019/0905/180345_49207d1d_301547.jpeg "zfb1.jpg")
 
 #### 源码仅用于交流学习，开源协议为[Apache License 2.0](https://gitee.com/kwwwvagaa/net_winform_custom_control/blob/master/LICENSE)，如商业使用请进群联系群主授权
 
@@ -740,8 +738,4 @@ HZH_Controls.Forms.FrmAnchorTips.ShowTips(button1, "测试提示信息\nBOTTOM",
 
 ![输入图片说明](https://images.gitee.com/uploads/images/2019/1015/090854_152076a0_301547.png "qk.png")
 
-#### 最后的话
 
-最后，喜欢请点下stars，如果有其他一些什么常用的控件可以在留言哦
-
-对你有用的话请打赏一下吧，谢谢。
